@@ -22,4 +22,4 @@ function para () {
 }
 // the event listener on line 3 connects with  the function on line 19 due to the para {
 
-//} and its allowing it to find the id with picture, and to also use the img from the mario.jpg on the right side of my screen in files, the .src connects with it because its sourcing it out, and the picutre is the id of the image.
+// } and its allowing it to find the id with picture, and to also use the img from the mario.jpg on the right side of my screen in files, the .src connects with it because its sourcing it out, and the picutre is the id of the image.
